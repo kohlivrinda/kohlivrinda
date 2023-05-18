@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kohlivrinda&label=Profile%20views&color=0e75b6&style=flat" alt="kohlivrinda" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kohlivrinda&theme=onedark)](https://github.com/kohlivrinda/github-profile-trophy)</p>
 
 - 🔭 I’m currently researching ** Alzheimer's Disease and AI Art detection**
 
