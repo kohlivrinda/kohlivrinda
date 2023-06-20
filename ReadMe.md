@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kohlivrinda&theme=onedark)](https://github.com/kohlivrinda/github-profile-trophy)</p>
 
-- 🔭 I’m currently researching ** Alzheimer's Disease and AI Art detection**
+- 🔭 I’m currently researching **Alzheimer's Disease and AI Art detection**
 
 - 🌱 I’m currently learning **Self supervised learning and Swin transformers**
 
