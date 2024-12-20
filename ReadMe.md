@@ -12,7 +12,7 @@
 <!-- - 👯 I’m looking to collaborate on **any interesting research projects!** -->
 
 
-# 👋 Hello, I’m Vrinda!
+# 👋 Hello, I’m Vrinda :)
 
 I write code and enjoy research problems. I have a bachelor's in Computer Science too!
 Here’s what I’m up to:
@@ -32,6 +32,7 @@ I’m really interested in:
 - Differential Privacy  
 - Federated Learning
 - Algorithmic Fairness  
+
 Always up for a chat or collaboration on these topics!
 
 ## ✍️ Hobbies
