@@ -26,6 +26,8 @@ Here’s what I’m up to:
 - 📚 **Current Side Project:**  
   Replicating various adversarial attacks (slowly but surely!).
 
+I also want to slowly get into game development. Currently trying out Godot to build small things :)
+
 
 ## 🔍 Research Interests
 I’m really interested in:
