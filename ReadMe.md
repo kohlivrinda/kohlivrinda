@@ -14,7 +14,7 @@
 
 # 👋 Hello, I’m Vrinda :)
 
-I write code and enjoy research problems. I have a bachelor's in Computer Science too!
+I write code and enjoy wracking my brains on research problems. I have a bachelor's in Computer Science too!
 Here’s what I’m up to:
 
 - 💼 **Machine Learning Engineer @ Gloroots**  
