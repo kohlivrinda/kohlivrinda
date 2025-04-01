@@ -24,7 +24,7 @@ Here’s what I’m up to:
   Exploring NLP and AI from a supply chain lens.
 
 - 📚 **Current Side Project:**  
-  Replicating various adversarial attacks (slowly but surely!).
+  Replicating various adversarial attacks (slowly but surely!). I am also exploring the effect of LoRA ranks on intermediate activations and convergence!
 
 I also want to slowly get into game development. Currently trying out Godot to build small things :)
 
