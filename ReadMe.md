@@ -37,7 +37,7 @@ Always up for a chat or collaboration on these topics!
 ## ✍️ Hobbies
 When I’m not working on tech projects, I’m an avid reader. I also paint. 
 
-📖 **Currently reading**: *Rhythm of War* by Brandon Sanderson – book 4 of Stormlight Archive (10/10, would recommend), doing a reread before digging into the latest *Wind and Truth*!
+📖 **Currently reading**: Absolutely nothing! I need to get back to reading 💀
 
 ## 💬 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/kohlivrinda/)  
