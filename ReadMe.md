@@ -17,14 +17,11 @@
 I write code and enjoy wracking my brains on research problems. I have a bachelor's in Computer Science too!
 Here’s what I’m up to:
 
-- 💼 **Machine Learning Engineer @ Gloroots**  
-  Developing recommendation solutions for the HRTech space. Building recrew.ai :)
-
-- 🔬 **Research @ Boston University (BITLAB)**  
-  Exploring NLP and AI from a supply chain lens.
+- 💼 **AI Engineer @ Maxim AI**  
+  Building evals for agents. 
 
 - 📚 **Current Side Project:**  
-  Learning about and experimenting with mechanistic interpretability. I am also exploring the effect of LoRA ranks on intermediate activations and convergence!
+  Learning about and experimenting with mechanistic interpretability. I am also (sporadically) exploring the effect of LoRA ranks on intermediate activations and convergence!
 
 I also want to slowly get into game development. Currently trying out Godot to build small things :)
 
